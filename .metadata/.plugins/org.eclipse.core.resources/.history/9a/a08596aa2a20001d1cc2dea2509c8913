@@ -1,0 +1,5 @@
+package me.notpoiu.endcrystals.events;
+
+public class EventManager {
+
+}

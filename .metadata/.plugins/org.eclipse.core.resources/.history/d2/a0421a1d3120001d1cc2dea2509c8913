@@ -1,0 +1,5 @@
+name: LegacyCrystals
+version: 1.1
+author: notpoiu
+main: me.notpoiu.endcrystals.Main
+api-version: 1.8.8

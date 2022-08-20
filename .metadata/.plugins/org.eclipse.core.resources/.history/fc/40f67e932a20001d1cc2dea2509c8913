@@ -1,0 +1,15 @@
+package me.notpoiu.endcrystals;
+
+import org.bukkit.Server;
+import org.bukkit.plugin.java.JavaPlugin;
+
+public class Plugin extends JavaPlugin{
+	
+	private Server server;
+	
+	@Override
+	public void onEnable() {
+		
+	}
+	
+}

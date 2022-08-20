@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.bukkit.plugin.java.JavaPlugin"/>
+    <fullyQualifiedTypeName name="org.bukkit.Server"/>
+    <fullyQualifiedTypeName name="org.bukkit.entity.EntityType"/>
+    <fullyQualifiedTypeName name="org.bukkit.event.block.Action"/>
+    <fullyQualifiedTypeName name="org.bukkit.event.Listener"/>
+    <fullyQualifiedTypeName name="net.minecraft.server.v1_8_R3.Material"/>
+    <fullyQualifiedTypeName name="net.minecraft.server.v1_8_R3.ItemStack"/>
+    <fullyQualifiedTypeName name="me.notpoiu.endcrystals.item.ItemManager"/>
+    <fullyQualifiedTypeName name="org.bukkit.ChatColor"/>
+    <fullyQualifiedTypeName name="org.bukkit.GameMode"/>
+    <fullyQualifiedTypeName name="net.minecraft.server.v1_8_R3.Entity"/>
+    <fullyQualifiedTypeName name="org.bukkit.entity.Entity"/>
+    <fullyQualifiedTypeName name="me.notpoiu.endcrystals.Plugin"/>
+</qualifiedTypeNameHistroy>

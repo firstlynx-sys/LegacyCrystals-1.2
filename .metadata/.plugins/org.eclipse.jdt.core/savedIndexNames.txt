@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\maste\OneDrive\Desktop\plugin\LegacyCrystals\.metadata\.plugins\org.eclipse.jdt.core
+752424905.index
+3837519540.index
+1865797976.index
+2619692016.index

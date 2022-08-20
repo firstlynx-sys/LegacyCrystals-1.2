@@ -1,0 +1,5 @@
+package me.notpoiu.endcrystals.item;
+
+public class ItemManager {
+
+}
