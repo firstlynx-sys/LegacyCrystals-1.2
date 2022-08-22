@@ -7,6 +7,8 @@ recipe:
 
 paypal: https://www.paypal.com/paypalme/notpoiudevl
 
+inspired from ghostly crystal pvp thing lol
+
 #### known bugs (if you find any please make an issue ty :D):
 
 ###### able to place crystal even if there is a block on top of the obsidian/bedrock
