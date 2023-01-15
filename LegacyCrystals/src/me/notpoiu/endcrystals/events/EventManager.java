@@ -44,7 +44,6 @@ public class EventManager implements Listener {
     }
     
     public static boolean getNearbyEntitiesAndIsEndCrystal(Location where, double range) {
-    	boolean amogus = false;
     	
     	for (Entity entity : where.getWorld().getEntities()) {
     		if(amogus)
@@ -52,12 +51,12 @@ public class EventManager implements Listener {
     		
     		if (isInBorder(where, entity.getLocation(), range)) {
     			if(entity.getType() == EntityType.ENDER_CRYSTAL) {
-    				amogus = true;
+    				return true;
     			}
     		}
     	}
     	
-    	return amogus;
+    	return false;
     }
     
     public static boolean isInBorder(Location center, Location notCenter, double range) {
